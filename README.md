@@ -1,7 +1,3 @@
-# projects
-"A centralized hub for small projects, logic experiments, and AI-driven innovations developed by the Kishor Coder Team. Building the future, one commit at a time
-
-
 # 🚀 Kishor Coder: The Projects Hub
 
 Welcome to the official projects repository of **Kishor Coder Community**. This space is dedicated to showcasing our team's continuous learning, logic building, and technical expertise through small yet impactful projects.
